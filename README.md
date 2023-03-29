@@ -1,2 +1,0 @@
-# thomas-blog
-thomas blog

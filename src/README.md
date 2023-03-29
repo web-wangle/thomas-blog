@@ -6,7 +6,7 @@ title: Thomas的博客
 heroImage: /logo.png
 heroText: 你博客的名称
 heroFullScreen: false
-bgImage: ''
+bgImage: 'https://s1.ax1x.com/2023/03/29/ppgaDuF.jpg'
 tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: project
