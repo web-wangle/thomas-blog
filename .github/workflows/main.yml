@@ -5,23 +5,26 @@ name: Deploy Thomas Blog
 on:
   push:
     branches:
-      - main
+    - main
   pull_request:
     branches:
-      - main
+    - main
   workflow_dispatch:
 
 # 任务
 jobs:
-  build-and-deploy:
-    # 服务器环境：最新版 Ubuntu
+  github_pages:
+    name: deploy to github pages
     runs-on: ubuntu-latest
     steps:
       # 拉取代码
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+      # 安装node环境  
+      - name: Setup node
+        uses: actions/setup-node@v3
         with:
-          persist-credentials: false
+          node-version: 18
 
       # 生成静态文件
       - name: Build
