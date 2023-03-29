@@ -1,0 +1,9 @@
+// 头像相关样式配置
+@import "palette";
+
+.logo,
+.hero-image,
+.blogger-avatar {
+  border-radius: 50%;
+  background: $avatar-bg-color;
+}
