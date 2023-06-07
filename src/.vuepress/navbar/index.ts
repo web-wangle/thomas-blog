@@ -1,7 +1,6 @@
 import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
-    { text: "踩坑记录", icon: "study", link: "/study/" },
     {
         text: "博文",
         icon: "article",

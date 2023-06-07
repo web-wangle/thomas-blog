@@ -31,6 +31,7 @@ export default hopeTheme({
       },
   contributors: true,
   lastUpdated: true,
+  editLink: false,
   plugins: {
     blog: true,
     mdEnhance: {
