@@ -7,10 +7,10 @@ heroImage: /logo.png
 heroText: Thomas的文档集
 heroFullScreen: false
 bgImage: 'https://s1.ax1x.com/2023/03/29/ppgaDuF.jpg'
-tagline: 你可以在这里放置你的口号与标语
+tagline: 
 projects:
   - icon: note
-    name: 踩坑记录
+    name: 踩坑
     desc: 工作中遇到的踩坑合集
     link: /note/
 
