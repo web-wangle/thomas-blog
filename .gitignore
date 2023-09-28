@@ -1,0 +1,21 @@
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Compiled files
+*.class
+*.jar
+*.pyc
+
+# Dependency files
+node_modules/
+vendor/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Personal configuration files
+.bash_history
+.bash_profile
