@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/thomas-blog/",
 
   lang: "zh-CN",
-  title: "Thomas小站",
-  description: "Thomas的博客小站",
+  title: "Thomas博客",
+  description: "Thomas的前端博客小站",
 
   theme,
 
