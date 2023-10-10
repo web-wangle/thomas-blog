@@ -15,7 +15,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/logo.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -47,9 +47,9 @@ export default hopeTheme({
   },
 
   // page meta
-  metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
-  },
+  // metaLocales: {
+  //   editLink: "在 GitHub 上编辑此页",
+  // },
 
   plugins: {
     blog: true,
