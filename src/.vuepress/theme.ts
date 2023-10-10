@@ -24,12 +24,13 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "————山因雲晦明，雲共山高下。",
 
   displayFooter: true,
+  editLink: false,
 
   blog: {
-    description: "不会打羽毛的程序员写不出好bug",
+    description: "爱打羽毛球的前端搬砖人",
     intro: "/intro.html",
     medias: {
       Email: "1455860676@qq.com",
@@ -37,25 +38,24 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   // page meta
-  // metaLocales: {
-  //   editLink: "在 GitHub 上编辑此页",
-  // },
+  metaLocales: {
+  },
 
   plugins: {
     blog: true,
 
-    comment: {
-      // You should generate and use your own comment service
-      provider: "Waline",
-      serverURL: "https://waline-comment.vuejs.press",
-    },
+    // comment: {
+    //   // You should generate and use your own comment service
+    //   provider: "Waline",
+    //   serverURL: "https://waline-comment.vuejs.press",
+    // },
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
