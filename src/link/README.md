@@ -2,8 +2,7 @@
 title: 好用的网站合集
 index: false
 icon: laptop-code
-category:
-  - 网站
+category: 网站
 
 sticky: 999
 ---
