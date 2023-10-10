@@ -5,7 +5,7 @@ export const pagesRoutes = [
   ["v-4e65ec78","/demo/disable.html",{"c":["使用指南"],"g":["禁用"],"e":"<p>你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。</p>\n","y":"a","t":"布局与功能禁用","i":"gears","O":3},[":md"]],
   ["v-438ffe52","/demo/markdown.html",{"c":["使用指南"],"g":["Markdown"],"e":"<p>VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。</p>\n<p>你应该创建和编写 Markdown 文件，以便 VuePress 可以根据文件结构将它们转换为不同的页面。</p>\n","y":"a","t":"Markdown 展示","i":"fab fa-markdown","O":2},[":md"]],
   ["v-6e19edb7","/demo/page.html",{"a":"Thomas.wang","d":1577836800000,"l":"2020年1月1日","c":["使用指南"],"g":["页面配置","使用指南"],"u":true,"v":"/assets/images/cover1.jpg","e":"<p><code>more</code> 注释之前的内容被视为文章摘要。</p>\n","y":"a","t":"页面配置","i":"file","O":1},[":md"]],
-  ["v-14e6501c","/link/",{"c":["网站"],"u":999,"e":"<h2> 目录</h2>\n<ul>\n<li>\n<p><a href=\"/thomas-blog/link/front-end-tools.html\" target=\"blank\">前端工具网站</a></p>\n</li>\n<li>\n<p><a href=\"/thomas-blog/link/front-end-learn.html\" target=\"blank\">前端学习网站</a></p>\n</li>\n<li>\n<p><a href=\"/thomas-blog/link/other-link.html\" target=\"blank\">其他好用网站</a></p>\n</li>\n</ul>\n","y":"a","t":"好用的网站合集","i":"laptop-code"},["/link/README.md"]],
+  ["v-14e6501c","/link/",{"y":"a","t":"好用的网站合集","i":"laptop-code"},["/link/README.md"]],
   ["v-d17748f2","/link/front-end-learn.html",{"y":"p","t":"前端学习网站合集"},[":md"]],
   ["v-7daf8650","/link/front-end-tools.html",{"y":"p","t":"前端好用工具的网站合集"},[":md"]],
   ["v-1bcf3f06","/link/other-link.html",{"y":"p","t":"令你工作事半功倍的网站合集"},[":md"]],
