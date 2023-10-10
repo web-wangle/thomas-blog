@@ -19,3 +19,7 @@ vendor/
 # Personal configuration files
 .bash_history
 .bash_profile
+
+# Cache files
+.cache
+.temp

@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://web-wangle.github.io/thomas-blog/thomas-blog/sitemap.xml
