@@ -1,6 +1,7 @@
 ---
 icon: circle-info
 
+index: false
 article: false
 ---
 
