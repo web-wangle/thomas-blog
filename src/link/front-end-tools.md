@@ -1,12 +1,12 @@
 ---
 title: 前端好用工具网站合集
-icon: link
-date: 2023-10-09
+icon: screwdriver-wrench
+date: 2023-10-11
 author: Thomas.wang
 category:
   网站
 tag:
-  - 工具
+  - 前端工具
 
 article: false
 ---

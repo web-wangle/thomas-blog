@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客首页
-heroImage: /logo.jpg
+heroImage: /logo.webp
 heroImageStyle: {width: 200px, height: 200px, borderRadius: 50%, objectFit: cover, border: 4px solid white, boxSizing: border-box}
 heroText: Thomas博客小站
-bgImage: /background.jpg
+bgImage: /background.webp
 heroFullScreen: true
 tagline: 雲來山更佳，雲去山如畫。
 projects:
