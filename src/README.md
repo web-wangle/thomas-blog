@@ -9,6 +9,10 @@ heroText: Thomas博客小站
 bgImage: /background.webp
 heroFullScreen: true
 tagline: 雲來山更佳，雲去山如畫。
+head:
+  - - meta
+    - name: google-site-verification
+      content: CJPCbtvVM-uS5yvMdI_m1D2dahDnM_DMriza1ICs2vM
 projects:
   - icon: link
     name: 常用网站
