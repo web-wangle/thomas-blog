@@ -12,7 +12,7 @@ tagline: 雲來山更佳，雲去山如畫。
 head:
   - - meta
     - name: google-site-verification
-      content: CJPCbtvVM-uS5yvMdI_m1D2dahDnM_DMriza1ICs2vM
+      content: au0z1rGENKzXkxic5kUDx1T-ptwg4yUdS0k-rdz6-NI
 projects:
   - icon: link
     name: 常用网站
