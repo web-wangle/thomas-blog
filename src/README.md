@@ -13,6 +13,9 @@ head:
   - - meta
     - name: google-site-verification
       content: au0z1rGENKzXkxic5kUDx1T-ptwg4yUdS0k-rdz6-NI
+  - - meta
+    - name: msvalidate.01
+      content: B52E41F5982508EB86E5A607DCE3473F
 projects:
   - icon: link
     name: 常用网站
